@@ -13,5 +13,4 @@ If a file has no code in it, I will get to it I am just piecing everything toget
 I want to have updates in here so check to see what is diffrent from time to time.
 Have a great day!-Billybob87343/[TTG]LOL
 
-  Date      Update Version     Notes about it
-10/14/24        0.0.1          Did README and made some empty starting folders and files
+Date : 10/14/24      Update Version : 0.0.1     Notes about it : Did README and made some empty starting folders and files
