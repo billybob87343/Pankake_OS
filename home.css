@@ -5,6 +5,11 @@ html, body {
     flex-direction: column;
 }
 
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
 header {
     height: 20%;
     background-color: #4CAF50;
