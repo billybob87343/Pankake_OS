@@ -30,6 +30,7 @@ main {
 }
 
 footer {
+    position: fixed; 
     bottem: 0;
     left: 0; 
     right: 0; 
