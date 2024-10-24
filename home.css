@@ -3,4 +3,5 @@ footer {
   padding: 10px 0;
   margin-bottom: 10px;
   bottem: 50px;
+  position: fixed;
 }
