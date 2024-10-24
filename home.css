@@ -1,10 +1,10 @@
 footer {
-      position: fixed; /* Fixes the footer to the viewport */
-      bottom: 10px; /* 10 pixels from the bottom of the screen */
-      left: 0; /* Align footer to the left */
-      right: 0; /* Align footer to the right */
-      background-color: #000000; /* Dark background color for the footer */
-      color: white; /* White text color */
-      text-align: center; /* Center text */
-      padding: 10px 0; /* Vertical padding */
+      position: fixed;
+      bottom: 10px; 
+      left: 0; 
+      right: 0; 
+      background-color: #000000; 
+      color: white; 
+      text-align: center; 
+      padding: 20px 0;
 }
