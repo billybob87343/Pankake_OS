@@ -30,7 +30,7 @@ main {
 }
 
 html, footer { 
-    fixed: bottem;
+    fixed: bottom;
     margin: 0;
     bottem: 10;
     left: 0; 
